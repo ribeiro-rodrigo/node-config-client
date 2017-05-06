@@ -1,2 +1,2 @@
 # node-config-client
-Cliente Nodejs do projeto Spring Cloud Config.
+Spring Cloud Config project Nodejs client.
