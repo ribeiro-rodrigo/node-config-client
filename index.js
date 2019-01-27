@@ -70,7 +70,7 @@ function requestConfig(config){
 
 exports.load = function(config){
     
-    validateConfig();
+    validateConfig(config);
     
     return requestConfig(config) 
             .then(function(configurations){
