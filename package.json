@@ -1,6 +1,6 @@
 {
   "name": "node-config-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cliente Nodejs do projeto Spring Cloud Config. ",
   "main": "index.js",
   "scripts": {
