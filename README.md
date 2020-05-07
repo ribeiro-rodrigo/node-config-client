@@ -1,5 +1,9 @@
 # Node Config Client
-NodeJs version of the Spring Config Client project. Node Config Client allows a NodeJs application to take immediate advantage of the Spring Config Server.<br/>
+NodeJs version of the Spring Config Client project. 
+
+[![NPM Version][npm-image]][npm-url]
+
+Node Config Client allows a NodeJs application to take immediate advantage of the Spring Config Server.<br/>
 
 Spring Cloud Config project url: https://cloud.spring.io/spring-cloud-config/
 
@@ -27,3 +31,5 @@ configClient.load({
 }).catch(erro => console.log(erro)); 
 
 ```
+[npm-image]: https://img.shields.io/npm/v/node-config-client.svg
+[npm-url]: https://npmjs.org/package/node-config-client
